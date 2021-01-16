@@ -1,0 +1,26 @@
+.search_Container{
+padding: 15px 0;
+background: #333333;
+
+}
+
+form{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+input {
+    display: block;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    width: 60%;
+  }
+
+  .search{
+    padding: 10px 20px;
+    width: auto;
+    font-weight: bolder;
+    
+  }
